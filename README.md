@@ -1,2 +1,2 @@
 # unixSS
-This is a tylesheet f
+This is a tylesheet for unix
